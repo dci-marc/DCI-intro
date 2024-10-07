@@ -10,6 +10,7 @@
 - <strong>Redis</strong> – for in-memory data structure storage, used as a database, cache, and message broker.
 - <strong>Docker Swarm</strong> – as an alternative container orchestration tool to Kubernetes.
 - <strong>Cypress</strong> – an end-to-end testing framework for web applications.
+- <strong>Svelte</strong> – a modern JavaScript framework with a focus on minimalism and speed.
 
 Note: ChatGPT can make mistakes. Check important info. ;)
 
