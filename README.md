@@ -48,3 +48,7 @@ Note: ChatGPT can make mistakes. Check important info. ;)
 - <strong>Volunteering</strong> – "I volunteer at local coding bootcamps, helping beginners learn the basics of software development."
 
 Note: ChatGPT can make mistakes. Check important info. ;)
+
+## Link to this repository
+
+https://github.com/dci-marc/DCI-intro
